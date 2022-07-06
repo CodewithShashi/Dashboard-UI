@@ -1,7 +1,3 @@
-# Video tutorial
-
-    https://youtu.be/fE3nIWqt8Tk
-
 # Reference
 
     - Create react app: https://create-react-app.dev/
